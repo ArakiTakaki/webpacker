@@ -1,0 +1,29 @@
+{
+  "name": "static-webpack-araki",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "ArakiTakaki <araki_takaki@yahoo.co.jp>",
+  "homepage": "https://github.com/ArakiTakaki/webpacker#readme",
+  "license": "MIT",
+  "main": "lib/static-webpack-araki.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArakiTakaki/webpacker.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/ArakiTakaki/webpacker/issues"
+  },
+  "dependencies": {
+    "webpack": "^4.29.3"
+  }
+}
