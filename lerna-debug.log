@@ -1,9 +1,0 @@
-0 silly argv { _: [ 'add' ],
-0 silly argv   globs: [],
-0 silly argv   lernaVersion: '3.11.1',
-0 silly argv   '$0': '../../../../.npm/_npx/13598/bin/lerna',
-0 silly argv   pkg: 'webnpack' }
-1 notice cli v3.11.1
-2 verbose rootPath /Users/arakitakaki/Developer/github/ArakiTakaki/webpacker
-3 error Error: 404 Not Found - GET https://registry.npmjs.org/webnpack - Not found
-3 error     at res.buffer.catch.then.body (/Users/arakitakaki/.npm/_npx/13598/lib/node_modules/lerna/node_modules/npm-registry-fetch/check-response.js:104:15)

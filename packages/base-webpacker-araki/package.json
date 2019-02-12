@@ -25,5 +25,8 @@
   },
   "bugs": {
     "url": "https://github.com/ArakiTakaki/webpacker/issues"
+  },
+  "dependencies": {
+    "webpack": "^4.29.3"
   }
 }
